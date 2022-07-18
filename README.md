@@ -24,7 +24,7 @@ in osint 1gram i mean the title like 1-insta -gram like gram so instagram, on si
 FLAG **BO1337{S74Lk_4P4_7U?}**
 ##
 
-##Osint Snap
+## Osint Snap
 
 Osint snap, i mean the flag on previous challenge. i curios with @loganatham9 instagram profile that i get from tagged on profile @nuraliahhariz pic. i open on 3 instagram account and download 3 profile picture @mikrahazura, @sharizaliyad, @melisahalib. and i combine 4 instagram profile picture.
 
@@ -33,6 +33,27 @@ Osint snap, i mean the flag on previous challenge. i curios with @loganatham9 in
 I upload and found on google jalan imbi, first try B01337{jalan_imbi} fail, second try B01337[imbi} fail. Imbi -> I uppercase
 
 FLAG **B01337{Imbi}**
+##
+
+## MISC RedPoint
+Simple Question, Just find the flag
+
+![image3](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/xf645asf654zf1z3f1a4f56z4dvc1z31gf53sd4g65s4f23cv4s54dfgs1g65sz322fx2a1f32s.png
+)
+
+FLAG **B01337{screwdriver}**
+##
+
+## MISC Sheng Xiao
+ 
+firsly i open zodiac code on google i found typewritter, and i follow the zodiac code on picture to get name of flag.
+
+![image4](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/zodiac.png)
+
+FLAG **BO13377(f4ec90216d2d7d5edb7c201919fce008e8)**
+
+##
+
 
 
 
