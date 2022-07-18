@@ -60,8 +60,12 @@ FLAG **BO13377(f4ec90216d2d7d5edb7c201919fce008e8)**
 
 ## MISC Rayquaza
 
-.gba file nitendo gameboy. 
+.gba file nitendo gameboy. i get the emulator. and find the fatguy wwhat he told in challenge. and im found the flag.
 
+![image5](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/pokemon.png)
+
+FLAG **BO1337{91091b84a367c97a93eb7b5ba35e850e}
+**
 
 ##
 
