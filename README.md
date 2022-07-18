@@ -1,3 +1,7 @@
+![logosa](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/logos.png)
+![logos](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/Screenshot%202022-07-19%202.56.19%20AM.png)
+
+
 # writeup-battle_1337_0gy-
 WriteUP BattleOf1337 2022 - 0gy
 
@@ -82,7 +86,9 @@ I get the website https://ifelse.battleof1337.com/, i curl head server and found
 
 ![image8](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/kucingkucing.png)
 
-##
+## MISC And Ekceli
+
+I get website https://jembalang.battleof1337.com/, and found password "Down Here". H
 
 
 
