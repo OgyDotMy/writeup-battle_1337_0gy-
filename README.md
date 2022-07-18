@@ -29,3 +29,10 @@ FLAG **BO1337{S74Lk_4P4_7U?}**
 Osint snap, i mean the flag on previous challenge. i curios with @loganatham9 instagram profile that i get from tagged on profile @nuraliahhariz pic. i open on 3 instagram account and download 3 profile picture @mikrahazura, @sharizaliyad, @melisahalib. and i combine 4 instagram profile picture.
 
 ![image3](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/snap.png)
+
+I upload and found on google jalan imbi, first try B01337{jalan_imbi} fail, second try B01337[imbi} fail. Imbi -> I uppercase
+
+FLAG **B01337{Imbi}**
+
+
+
