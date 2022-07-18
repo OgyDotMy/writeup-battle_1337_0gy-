@@ -54,6 +54,35 @@ FLAG **BO13377(f4ec90216d2d7d5edb7c201919fce008e8)**
 
 ##
 
+## MISC Rayquaza
+
+.gba file nitendo gameboy. 
+
+
+##
+
+## MISC Break The Storage
+
+i get the web from challenge https://oyen.battleof1337.com/login.html, and i viewsource code, i found profile.html and i view source /profile.html i found profile.js and found the flag.
+
+![image6](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/profilehtml.png)
+
+and i goto profile.js
+
+![image7](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/profilejs.png)
+i found the flag 
+
+FLAG **BO1337{a2c13e70ff50376e259ddb5bd5e54a69b16e569f}**
+
+
+
+
+
+
+
+
+
+
 
 
 
