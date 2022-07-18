@@ -64,8 +64,7 @@ FLAG **BO13377(f4ec90216d2d7d5edb7c201919fce008e8)**
 
 ![image5](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/pokemon.png)
 
-FLAG **BO1337{91091b84a367c97a93eb7b5ba35e850e}
-**
+FLAG **BO1337{91091b84a367c97a93eb7b5ba35e850e}**
 
 ##
 
@@ -92,7 +91,9 @@ I get the website https://ifelse.battleof1337.com/, i curl head server and found
 
 ## MISC And Ekceli
 
-I get website https://jembalang.battleof1337.com/, and found password "Down Here". H
+I get website https://jembalang.battleof1337.com/, and found password "Down Here". 
+
+
 
 
 
