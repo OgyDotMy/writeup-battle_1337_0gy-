@@ -81,7 +81,7 @@ i found the flag
 
 FLAG **BO1337{a2c13e70ff50376e259ddb5bd5e54a69b16e569f}**
 
-##
+
 
 ## MISC Cat-Dalmantion
 
@@ -92,6 +92,10 @@ I get the website https://ifelse.battleof1337.com/, i curl head server and found
 ## MISC And Ekceli
 
 I get website https://jembalang.battleof1337.com/, and found password "Down Here". 
+
+![image9](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/jembalang1.PNG)
+
+
 
 
 
