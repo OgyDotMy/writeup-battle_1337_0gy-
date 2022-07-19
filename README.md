@@ -95,6 +95,29 @@ I get website https://jembalang.battleof1337.com/, and found password "Down Here
 
 ![image9](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/jembalang1.PNG)
 
+After i put the password, i view the source code i get the return code and paste at console to see respon.
+
+![image9](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/jembalang2.PNG)
+![image9](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/jembalang4.PNG)
+
+After that i copy all sourcecode and paste on vsc to recheck, and get the variable a to test combine.
+
+![image9](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/jembalang5.PNG)
+
+after that i run variablee using console again with variable a. and get the flag 'obfuscationarefornoobz'.
+
+![image9](https://github.com/OgyDotMy/writeup-battle_1337_0gy-/blob/main/image/jembalang6.PNG)
+
+ FLAG **BO1337{obfuscationarefornoobz}**
+
+##
+
+RE Simplify
+
+
+
+
+
 
 
 
